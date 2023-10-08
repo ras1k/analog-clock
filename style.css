@@ -26,8 +26,8 @@ body{
 .clock{
     position: relative;
     border-radius: 50%;
-    width: 500px;
-    height: 500px;
+    width: 550px;
+    height: 550px;
     display: flex;
     justify-content: center;
     align-items: center;

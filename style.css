@@ -7,7 +7,7 @@
 }
 
 body{
-    background: rgb(33,33,34);
+    background: linear-gradient(135deg, #3494E6, #EC6EAD);
     min-height: 100vh;
     display: flex;
     justify-content: center;
